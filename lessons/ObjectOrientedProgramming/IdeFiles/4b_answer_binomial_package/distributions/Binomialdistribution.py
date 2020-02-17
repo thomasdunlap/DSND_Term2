@@ -80,7 +80,6 @@ class Binomial(Distribution):
         
         return self.p, self.n
 
-    
         
     def plot_bar(self):
         """Function to output a histogram of the instance variable data using 
